@@ -1,9 +1,4 @@
 /*
-Alexandro Drogo
-tuj78444@temple.edu
-10/07/2019
-CIS2168_003 Fall 2019 Data Structures
-Assign 4 - Linked List
 PROGRAM DESCRIPTION:
 This program creates a linked list phone directory where people are added
 to the directory in order by last name. You can then search for a person by
